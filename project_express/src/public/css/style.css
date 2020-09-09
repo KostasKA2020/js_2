@@ -40,8 +40,6 @@ button:focus{
 /*padding: 40px 80px;*/
 /*}*/
 .products{
-    /*background-color: aqua;*/
-    /*background-image: url(../img/kaufmannmercantile290705.jpg);*/
     column-gap: 30px;
     display: grid;
     grid-template-columns: repeat(auto-fit, 200px);
